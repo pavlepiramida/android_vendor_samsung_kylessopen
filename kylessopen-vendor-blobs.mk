@@ -131,6 +131,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/bin/hostapd:system/bin/hostapd \
     vendor/samsung/kylessopen/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin \
     vendor/samsung/kylessopen/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/bdata.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/bdata.bin \
-    vendor/samsung/kylessopen/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin \
-    vendor/samsung/kylessopen/proprietary/lib/modules/ath6kl_sdio.ko:system/lib/modules/ath6kl_sdio.ko \
-    vendor/samsung/kylessopen/proprietary/lib/modules/cfg80211.ko:system/lib/modules/cfg80211.ko
+    vendor/samsung/kylessopen/proprietary/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/fw-4.bin
