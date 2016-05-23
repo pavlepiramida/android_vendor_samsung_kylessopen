@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libnv.so:obj/lib/libnv.so
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/kylessopen/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/kylessopen/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/kylessopen/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/kylessopen/proprietary/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
