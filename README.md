@@ -1,2 +1,2 @@
 # android_vendor_samsung_kylessopen
-S7562
+S7560/M
