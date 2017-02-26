@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylessopen/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/samsung/kylessopen/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/kylessopen/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/kylessopen/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/kylessopen/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/kylessopen/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/samsung/kylessopen/proprietary/lib/libauth.so:system/lib/libauth.so \
